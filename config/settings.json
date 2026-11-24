@@ -1,0 +1,23 @@
+{
+  "module": "pc-helper-ai",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "voice": {
+      "enabled": true
+    },
+    "diag": {
+      "enabled": true
+    },
+    "fixer": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
