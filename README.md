@@ -90,3 +90,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: pc-helper-ai, assistant, pc, voice, diagnostics, fix, windows, helper, ai, cli, developer-tools, open-source, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+ai assistant pc voice diagnostics fix windows helper pc-helper-ai computer-assistant ai-pc-assistant windows portable prebuilt x64 free download
+related: ai, assistant, pc, voice, diagnostics, fix, windows, helper
